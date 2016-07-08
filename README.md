@@ -6,3 +6,4 @@ For the sake of learning.
 - Observables 101 - [Branch](observables-101)
 - Observables Error - [Branch](observables-error)
 - Interval 101 - [Branch](interval-101)
+- Rough `take` operator [Branch](take$)
