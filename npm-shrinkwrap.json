@@ -6244,6 +6244,18 @@
       "from": "rx-lite@>=3.1.2 <4.0.0",
       "resolved": "./node_shrinkwrap/rx-lite-3.1.2.tgz"
     },
+    "rxjs": {
+      "version": "5.0.0-beta.10",
+      "from": "rxjs@latest",
+      "resolved": "./node_shrinkwrap/rxjs-5.0.0-beta.10.tgz",
+      "dependencies": {
+        "symbol-observable": {
+          "version": "1.0.1",
+          "from": "symbol-observable@>=1.0.1 <2.0.0",
+          "resolved": "./node_shrinkwrap/symbol-observable-1.0.1.tgz"
+        }
+      }
+    },
     "samsam": {
       "version": "1.1.2",
       "from": "samsam@1.1.2",
